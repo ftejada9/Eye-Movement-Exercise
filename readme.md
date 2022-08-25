@@ -6,6 +6,8 @@
 This is the "Eyes movement Exercise", where the eyes, eyeballs and background have been created with CSS styles. 
 And animated thru JavaScript to be able to follow the cursor movement.
 
+Future Improvements will add different animal faces to make the page more attractive
+
 ---
 MIT License
 
